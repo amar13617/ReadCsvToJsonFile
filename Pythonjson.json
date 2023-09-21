@@ -1,0 +1,37 @@
+[
+    {
+        "No": "1",
+        "Name": "Amar",
+        "Age": "20",
+        "Location": "Pune",
+        "Salary": "40000"
+    },
+    {
+        "No": "2",
+        "Name": "Ankit",
+        "Age": "10",
+        "Location": "Patna",
+        "Salary": "20000"
+    },
+    {
+        "No": "3",
+        "Name": "Aksh",
+        "Age": "24",
+        "Location": "Bihta",
+        "Salary": "15000"
+    },
+    {
+        "No": "4",
+        "Name": "Avinash",
+        "Age": "32",
+        "Location": "Delhi",
+        "Salary": "18000"
+    },
+    {
+        "No": "5",
+        "Name": "Anish",
+        "Age": "22",
+        "Location": "Mumbai",
+        "Salary": "15000"
+    }
+]
